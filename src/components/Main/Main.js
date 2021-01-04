@@ -93,9 +93,7 @@ export default function Main() {
     setOpen(true);
   };
 
-  const handleDrawerClose = () => {
-    setOpen(false);
-  };
+  
 
   return (
     <div className={classes.root}>
